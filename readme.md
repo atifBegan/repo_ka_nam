@@ -1,5 +1,1 @@
-### atifbitch aisa kuch
-_description_type_
-```sh
-taqi is a bitch
-```
+# repo_ka_nam
